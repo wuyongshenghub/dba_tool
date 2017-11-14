@@ -24,7 +24,7 @@ For the database and daily inspection system系统及数据库日常巡检
 	slow:slow_sql/tmp table/disk tmp table
 	bytes: Bytes_received/Bytes_sent
 	python dba_tool.py -info mysql
-	DBA tools:10.205.101.172
+	DBA tools:192.168.137.11
 	---------+-------mysql-status-------+-----threads-----+-----slow-----+----bytes-------
 	time     |   QPS  TPS  ins  upd  del| run  con cre cac| sql  tmp Dtmp|   recv   send
 	---------+--------------------------+-----------------+--------------+----------------

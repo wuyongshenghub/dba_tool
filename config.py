@@ -7,5 +7,5 @@ dba={
     "Spwd": "123456",
     "Muser": "root",
     "Mpwd": "123456",
-    "Mport": "3306"
+    "Mport": "3376"
 }
